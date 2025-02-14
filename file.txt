@@ -1,2 +1,3 @@
 First message
 New message
+-----------
